@@ -1,2 +1,2 @@
-# RubberDuckyPayloads
-RubberDucky Payloads
+# RubberDucky Payloads 
+# Author: Paweł Hordyński
