@@ -1,0 +1,11 @@
+REM TITLE  Windows Admistrator CMD with RubberDucky v.1
+REM AUTHOR CyberGuru | Paweł Hordyński
+REM DESCRIPTION Run CMD as Administrator !
+DELAY 1000
+GUI x
+DELAY 500
+STRING a
+DELAY 500
+LEFTARROW
+DELAY 500
+ENTER
